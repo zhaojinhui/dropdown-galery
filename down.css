@@ -1,0 +1,21 @@
+.background-galery-container {
+        width: 100%;
+        height: 100%;
+      }
+      .background-galery {
+        width: 100%;
+        min-height: 600px;
+      }
+      .background-galery > img {
+        width: 100%;
+      }
+      .arrow-down-container {
+        text-align: center;
+        width: 100%;
+        position: fixed;
+        bottom: 0;
+      }
+      .arrow-down {
+        cursor: pointer;
+        z-index: 100px;
+      }
