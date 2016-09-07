@@ -5,13 +5,13 @@ How to use it:
 
 just down the file and then add the relative down.css, down.js and then use it with the following js and html code
 
-''' javascript '''
+```javascript
 var list = ['test.jpeg', 'test.jpeg', 'test.jpeg'];
 $('.background-galery-container').downGalery(list);
 
-'''
+```
 
-''' html '''
+```html
 <div class="background-galery-container">
     </div>
     <div class="arrow-down-container">
@@ -19,4 +19,4 @@ $('.background-galery-container').downGalery(list);
         <img src="down.png">
       </div>
     </div>
-'''
+```
